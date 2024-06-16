@@ -15,3 +15,9 @@ document.getElementById("blog-content-3d").textContent = blog3_date;
 
 var blog3 = "My father has arranged a marriage between me and the Count Paris. I tried to say no, but my parents say that if I don’t get married to Paris, I might as well never speak to them again. I have told Friar Lawrence, and he made me a potion to drink to fake my death so that I don’t have to marry Paris, and run away with Romeo to Mantua. The friar will be delivering a message to Romeo in the morning to prepare for when I wake up, with the location of my tomb, and the time that I will wake up. Friar Lawrence says that it will be like awaking from a refreshing sleep. He says to drink it before I go to sleep.";
 document.getElementById("blog-content3").textContent = blog3;
+
+var blog4_date = "07/17/1591    21:44";
+document.getElementById("blog-content-4d").textContent = blog4_date;
+
+var blog4 = "My father has moved the wedding up a day, as I said (to not arouse suspicion), that I would marry Paris. So I will be drinking the potion a day early. I am hoping that the letter to Romeo gets there in time! I will keep you guys posted after I wake up!";
+document.getElementById("blog-content4").textContent = blog4;
